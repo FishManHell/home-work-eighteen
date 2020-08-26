@@ -1,0 +1,14 @@
+li{
+  margin-bottom: 20px;
+}
+.deleteBtn{
+  display: inline-flex;
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+}
